@@ -3,6 +3,8 @@
 *::after {
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    color: antiquewhite;
 }
 
 body {
@@ -13,14 +15,14 @@ body {
     align-items: center;
     width: 100vw;
     height: 100vh;
-    background-image: url(/forest.jpg);
+    background-image: url(/DpUgwWz.png);
     background-color: #333;
 }
 
 .container {
     width: 800px;
     max-width: 80%;
-    background-color: white;
+    background-color: #7a0000;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 0 10px 2px;
@@ -35,11 +37,11 @@ body {
 }
 
 .btn {
-    background-color: cornflowerblue;
-    border-color: royalblue;
+    background-color: antiquewhite;
+    border-color: bisque;
     border-radius: 5px;
     padding: 5px 10px;
-    color: white;
+    color: darkgreen;
     outline: none;
 }
 

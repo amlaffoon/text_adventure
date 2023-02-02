@@ -6,5 +6,7 @@ A simple text-based adventure game following Web Dev Simplified's tutorial using
 
 ### To do:
 -Add more paths/options
+
 -Implement items and quests using state
+
 -Conditional styling (ex, background changes based on which location you are in)

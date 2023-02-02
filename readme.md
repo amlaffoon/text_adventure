@@ -10,3 +10,5 @@ A simple text-based adventure game following Web Dev Simplified's tutorial using
 -Implement items and quests using state
 
 -Conditional styling (ex, background changes based on which location you are in)
+
+-Build in Vue.js
